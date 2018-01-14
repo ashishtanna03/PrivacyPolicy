@@ -1,25 +1,17 @@
-<h2>Privacy Policy</h2> <p> Innovplex built the Caller Name Announcer app as an Ad Supported app. This SERVICE is provided by Innovplex at no cost and is intended for use as is.
-                  </p> <p>This page is used to inform website visitors regarding our policies with the collection, use, and
-                    disclosure of Personal Information if anyone decided to use our Service.
-                  </p> <p>If you choose to use our Service, then you agree to the collection and use of information in relation
+<h2>Privacy Policy</h2> <p> Innovplex built the Caller Name Announcer app as an Ad Supported app. This app is provided by Innovplex at no cost and is intended for use as is.
+                  </p> <p>This page is used to inform app users regarding our policies with the collection, use, and
+                    disclosure of Personal Information if anyone decided to use our app.
+                  </p> <p>If you choose to use our app, then you agree to the collection and use of information in relation
                     to this policy. The Personal Information that we collect is used for providing and improving the
-                    Service. We will not use or share your information with anyone except as described
+                    app. We will not use or share your information with anyone except as described
                     in this Privacy Policy.
-                  </p> <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
-                    at Caller Name Announcer unless otherwise defined in this Privacy Policy.
-                  </p> <p><strong>Information Collection and Use</strong></p> <p>For a better experience, while using our Service, we may require you to provide us with certain
+                  </p>  <p><strong>Information Collection and Use</strong></p> <p>For a better experience, while using our app, we may require you to provide us with certain
                     personally identifiable information, including but not limited to Contacts, Phone States, SMS, WhatsAp  messages. The information that we request is will be retained by us and used as described in this privacy policy.
-                  </p> <p>The app does use third party services that may collect information used to identify you.</p> <div><p>Link to privacy policy of third party service providers used by the app </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li> <!----> <!----> <!----></ul></div> <p><strong>Log Data</strong></p> <p> We want to inform you that whenever you use our Service, in a case of an
-                    error in the app we collect data and information (through third party products) on your phone
-                    called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address,
-                    device name, operating system version, the configuration of the app when utilizing our Service,
-                    the time and date of your use of the Service, and other statistics.
-                  </p> <p><strong>Cookies</strong></p> <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These
+                  </p> <p>The app does use third party services that may collect information used to identify you.</p> <div><p>Link to privacy policy of third party service providers used by the app </p> <ul><li><a href="https://www.startapp.com/policy/privacy-policy/" target="_blank">StartApp</a></li> <!----> <!----> <!----></ul></div>  <p><strong>Cookies</strong></p> <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These
                     are sent to your browser from the website that you visit and are stored on your device internal memory.
-                  </p> <p>This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries
+                  </p> <p>This app does not use these “cookies” explicitly. However, the app may use third party code and libraries
                     that use “cookies” to collection information and to improve their services. You have the option to either
-                    accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to
-                    refuse our cookies, you may not be able to use some portions of this Service.
+                    accept or refuse these cookies and know when a cookie is being sent to your device. 
                   </p> <p><strong>Service Providers</strong></p> <p> We may employ third-party companies and individuals due to the following reasons:</p> <ul><li>To facilitate our Service;</li> <li>To provide the Service on our behalf;</li> <li>To perform Service-related services; or</li> <li>To assist us in analyzing how our Service is used.</li></ul> <p> We want to inform users of this Service that these third parties have access to your
                     Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they
                     are obligated not to disclose or use the information for any other purpose.
@@ -43,4 +35,4 @@
                     this page.
                   </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
                     us.
-                  </p> <p>This privacy policy page was created at <a href="https://privacypolicytemplate.net" target="_blank">privacypolicytemplate.net</a>                    and modified/generated by <a href="https://app-privacy-policy-generator.firebaseapp.com/" target="_blank">App Privacy Policy Generator</a></p></body>
+                  </p> </body>
